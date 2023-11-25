@@ -1,7 +1,5 @@
 # Weather App with React Native and Expo
 
-![logo-react](https://reactnative.dev/img/header_logo.svg)
-
 ## Overview
 
 This mobile application is a Weather App built using React Native and Expo. It leverages external weather data through API services to provide real-time weather information to users.
@@ -16,7 +14,7 @@ This mobile application is a Weather App built using React Native and Expo. It l
 
 - **React Native:** A JavaScript framework for building mobile applications.
 - **Expo:** A framework and a platform for universal React applications.
-- **API Service:** [Name of the Weather API Service]
+- **API Service:** Open-Meteo
 
 ## Installation
 
