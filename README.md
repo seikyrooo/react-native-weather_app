@@ -24,24 +24,18 @@ Before running the app, make sure you have [Node.js](https://nodejs.org/) and [E
 
 ```bash
 git clone https://github.com/seikyrooo/react-native-weather_app.git
-
-
 ```
    
 2. Navigate to the project folder:
 
 ```bash
 cd your-weather-app
-
-
 ```
 
 3. Install dependencies:
 
 ```bash
 npm install
-
-
 ```
 
 4. Start the Expo development server:
@@ -57,3 +51,11 @@ Use the Expo client on your mobile device or an emulator to preview the app.
 - Open the app on your mobile device or emulator.
 - Grant necessary permissions for location access.
 - Explore real-time weather information for your location.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## Authors
+
+- [@seikyrooo](https://www.github.com/seikyrooo)
