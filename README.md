@@ -48,8 +48,6 @@ npm install
 
 ```bash
 npm expo start
-
-
 ```
 
 Use the Expo client on your mobile device or an emulator to preview the app.
